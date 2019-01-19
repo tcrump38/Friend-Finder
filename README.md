@@ -7,4 +7,5 @@ To use app:
 - Navigate to root directory
 - `npm install`
 - Have Express installed
-
+- Set local port in server.js file
+- Run `node server.js` and open browser
